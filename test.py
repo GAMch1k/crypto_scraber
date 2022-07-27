@@ -34,7 +34,7 @@ def main():
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--no-sandbox')
 
-    browser = webdriver.Chrome('/Users/gamch1k/Documents/chromedriver', options=options)
+    browser = webdriver.Chrome('chromedriver', options=options)
 
     print('PARSING COINS')
 
