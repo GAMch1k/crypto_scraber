@@ -1,0 +1,19 @@
+{
+  "name": "crypto_scraber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "author": "GAMch1k",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^2.1.0",
+    "node-telegram-bot-api": "^0.58.0",
+    "nodemon": "^2.0.19",
+    "sqlite3": "^5.0.10"
+  }
+}
