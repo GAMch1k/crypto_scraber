@@ -15,7 +15,7 @@ const bot = new TelegramBot(token, {polling: true});
 
 setInterval(() => {
     var date = new Date();
-    if(date.getHours() === 22 && date.getMinutes() === 0){ 
+    if(date.getHours() === 0 && date.getMinutes() === 0){ 
         minus_day();
     }
 }, 60000);

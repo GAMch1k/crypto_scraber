@@ -1,30 +1,7 @@
 {
     "data": [
-        "Bittorrent new\nBuy: WhiteBIT(BTT/USDT) (9.11e-07$)\nSell: Binance(BTTC/USDT) (9.202e-07$)\nProfit: 1.01%",
-        "Iota\nBuy: KuCoin(IOTA/USDT) (0.2924$)\nSell: Gate.io(IOTA/USDT) (0.2955$)\nProfit: 1.06%",
-        "Gnosis gno\nBuy: Coinbase Exchange(GNO/USDT) (149.48$)\nSell: Binance(GNO/USDT) (151.34$)\nProfit: 1.24%",
-        "Fei usd\nBuy: Phemex(FEI/USDT) (0.9799$)\nSell: AEX(FEI/USDT) (0.9922$)\nProfit: 1.26%",
-        "Bitcoin gold\nBuy: Bybit(BTG/USDT) (22.48$)\nSell: Binance(BTG/USDT) (22.82$)\nProfit: 1.51%",
-        "Trust wallet token\nBuy: KuCoin(TWT/USDT) (0.9598$)\nSell: Phemex(TWT/USDT) (0.9744$)\nProfit: 1.52%",
-        "Amp\nBuy: LBank(AMP/USDT) (0.008462$)\nSell: WhiteBIT(AMP/USDT) (0.008602$)\nProfit: 1.65%",
-        "Ecash\nBuy: MEXC(XEC/USDT) (4.025e-05$)\nSell: Bybit(XEC/USDT) (4.105e-05$)\nProfit: 1.99%",
-        "Stacks\nBuy: LBank(STX/USDT) (0.4111$)\nSell: Bybit(STX/USDT) (0.4198$)\nProfit: 2.12%",
-        "Convex finance\nBuy: Phemex(CVX/USDT) (6.86$)\nSell: AEX(CVX/USDT) (7.04$)\nProfit: 2.62%",
-        "Cronos\nBuy: Phemex(CRO/USDT) (0.1246$)\nSell: Coinbase Exchange(CRO/USDT) (0.1281$)\nProfit: 2.81%",
-        "Xrp\nBuy: Phemex(XRP/USDT) (0.3508$)\nSell: Bitfinex(XRP/USDT) (0.3609$)\nProfit: 2.88%",
-        "Terrausd\nBuy: Kraken(UST/USDT) (0.03547$)\nSell: KuCoin(USTC/USDT) (0.0368$)\nProfit: 3.75%",
-        "Solana\nBuy: FTX(SOL/USDT) (38.67$)\nSell: Bitfinex(SOL/USDT) (40.15$)\nProfit: 3.83%",
-        "Lido dao\nBuy: Bybit(LDO/USDT) (1.79$)\nSell: KuCoin(LDO/USDT) (1.86$)\nProfit: 3.91%",
-        "Algorand\nBuy: WhiteBIT(ALGO/USDT) (0.3239$)\nSell: Bitfinex(ALG/USDT) (0.3367$)\nProfit: 3.95%",
-        "Thorchain\nBuy: Crypto.com Exchange(RUNE/USDT) (2.54$)\nSell: MEXC(RUNE/USDT) (2.66$)\nProfit: 4.72%",
-        "Ftx token\nBuy: Bitfinex(FTT/USDT) (27.59$)\nSell: Binance(FTT/USDT) (28.91$)\nProfit: 4.78%",
-        "Gatetoken\nBuy: AEX(GT/USDT) (4.09$)\nSell: Bitfinex(GTX/USDT) (4.32$)\nProfit: 5.62%",
-        "Chiliz\nBuy: Bitfinex(CHZ/USDT) (0.1036$)\nSell: KuCoin(CHZ/USDT) (0.1096$)\nProfit: 5.79%",
-        "Neo\nBuy: LBank(NEO/USDT) (9.25$)\nSell: OKX(NEO/USDT) (9.82$)\nProfit: 6.16%",
-        "Internet computer\nBuy: Coinbase Exchange(ICP/USDT) (6.85$)\nSell: Bitfinex(ICP/USDT) (7.43$)\nProfit: 8.47%",
-        "Kusama\nBuy: Bitfinex(KSM/USDT) (55.23$)\nSell: KuCoin(KSM/USDT) (60.37$)\nProfit: 9.31%",
-        "Filecoin\nBuy: Bybit(FIL/USDT) (5.48$)\nSell: Bitfinex(FIL/USDT) (6.02$)\nProfit: 9.85%",
-        "Unus sed leo\nBuy: OKX(LEO/USDT) (5.18$)\nSell: Bitfinex(LEO/USDT) (5.98$)\nProfit: 15.44%",
-        "Synthetix network token\nBuy: Bitfinex(SNX/USDT) (2.71$)\nSell: Bybit(SNX/USDT) (3.19$)\nProfit: 17.71%"
+        "Holo\nBuy: Bybit(HOT/USDT) (0.002065$)\nSell: Phemex(HOT/USDT) (0.002087$)\nProfit: 1.07%",
+        "Xinfin\nBuy: Bybit(XDC/USDT) (0.0283$)\nSell: Gate.io(XDC/USDT) (0.02863$)\nProfit: 1.17%",
+        "Gatetoken\nBuy: AEX(GT/USDT) (4.17$)\nSell: Gate.io(GT/USDT) (4.27$)\nProfit: 2.4%"
     ]
 }
